@@ -1,0 +1,71 @@
+﻿  stb_image.c
+  CPUTAnimation.cpp
+  CPUTAssetLibrary.cpp
+  CPUTAssetSet.cpp
+  CPUTButton.cpp
+  CPUTCamera.cpp
+  CPUTCheckbox.cpp
+  CPUTConfigBlock.cpp
+  CPUTControl.cpp
+  CPUTDropdown.cpp
+  CPUTFont.cpp
+  CPUTFrustum.cpp
+  CPUTGuiController.cpp
+  CPUTITTTaskMarker.cpp
+  CPUTLight.cpp
+  CPUTMaterial.cpp
+  CPUTMesh.cpp
+  CPUTModel.cpp
+  CPUTNullNode.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTModel.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTModel.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTModel.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTNullNode.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTNullNode.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTNullNode.cpp)
+  CPUTParser.cpp
+  CPUTPerfTaskMarker.cpp
+  CPUTRenderNode.cpp
+  CPUTRenderStateBlock.cpp
+  CPUTScene.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTRenderNode.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTRenderNode.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTRenderNode.cpp)
+  CPUTSkeleton.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTSkeleton.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTSkeleton.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\cputmath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\..\CPUT\source\CPUTSkeleton.cpp)
+  CPUTSlider.cpp
+  CPUTSoftwareMesh.cpp
+  CPUTSoftwareTexture.cpp
+  CPUTSprite.cpp
+  CPUTText.cpp
+  CPUTTexture.cpp
+  CPUTAssetLibraryDX11.cpp
+  CPUTBufferDX11.cpp
+  CPUTComputeShaderDX11.cpp
+  CPUTDomainShaderDX11.cpp
+  CPUTGPUTimerDX11.cpp
+  CPUTGeometryShaderDX11.cpp
+  CPUTGuiControllerDX11.cpp
+  CPUTHullShaderDX11.cpp
+  CPUTInputLayoutCacheDX11.cpp
+  CPUTMaterialDX11.cpp
+  CPUTMeshDX11.cpp
+  CPUTPixelShaderDX11.cpp
+  CPUTPostProcess.cpp
+  CPUTRenderStateBlockDX11.cpp
+  CPUTRenderTarget.cpp
+  CPUTShaderDX11.cpp
+  CPUTTextureDX11.cpp
+  CPUTVertexShaderDX11.cpp
+  CPUT_DX11.cpp
+  CPUTOSServicesWin.cpp
+  CPUTTimerWin.cpp
+  CPUTWindowWin.cpp
+  DDSTextureLoader.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\source\directx\cputrendertarget.cpp(264): warning C4838: 从“int”转换到“UINT”需要收缩转换
+  ScreenGrab.cpp
+  WICTextureLoader.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\extras\directxtex\screengrab\screengrab.cpp(1029): warning C4838: 从“UINT”转换到“INT”需要收缩转换
+  CPUTDX.vcxproj -> D:\facemapping\FaceMapping2-master\FaceMapping2-master\facescan\build\vs2013\..\..\..\CPUT\lib\x32\v140\Debug\CPUTDX.lib

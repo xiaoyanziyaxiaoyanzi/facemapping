@@ -1,0 +1,51 @@
+﻿  CDisplacementMapStage.cpp
+  CHairGeometryStage.cpp
+  CHeadBlendStage.cpp
+  CHeadGeometryStage.cpp
+  CPipeline.cpp
+  FaceMapUtil.cpp
+  GameFaceScan.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  MenuController.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuController.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuController.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuController.cpp)
+  MenuGlob.cpp
+  Menu_FaceMapping.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuGlob.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuGlob.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuGlob.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceMapping.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceMapping.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceMapping.cpp)
+  Menu_FaceScanPreview.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceScanPreview.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceScanPreview.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceScanPreview.cpp)
+  Menu_LandmarkEdit.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_LandmarkEdit.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_LandmarkEdit.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_LandmarkEdit.cpp)
+  Menu_Scan.cpp
+  CFaceModel.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_Scan.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_Scan.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_Scan.cpp)
+  OBJExporter.cpp
+  ObjLoader.cpp
+  SampleStart.cpp
+  SampleUtil.cpp
+  windowsMain.cpp
+..\..\CFaceModel.cpp(170): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::size_t”
+  ..\..\CFaceModel.cpp(170): note: 此参数用作缓冲区大小
+..\..\CFaceModel.cpp(175): warning C4477: “sscanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::size_t”
+  ..\..\CFaceModel.cpp(175): note: 此参数用作缓冲区大小
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  All 8062 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  facescanDX.vcxproj -> D:\facemapping\FaceMapping2-master\FaceMapping2-master\facescan\bin\v140\x64\facescanDX.exe
+  facescanDX.vcxproj -> D:\facemapping\FaceMapping2-master\FaceMapping2-master\facescan\bin\v140\x64\facescanDX.pdb (Full PDB)

@@ -1,0 +1,23 @@
+#
+# fusionsdk
+#
+# Materials for the file "joe_sr300_1.obj"
+#
+
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd joe_sr300_1Image1.png
+
+# end of file

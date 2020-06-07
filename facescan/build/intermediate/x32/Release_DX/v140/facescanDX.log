@@ -1,0 +1,39 @@
+﻿  CDisplacementMapStage.cpp
+  CHairGeometryStage.cpp
+  CHeadBlendStage.cpp
+  CHeadGeometryStage.cpp
+  CPipeline.cpp
+  FaceMapUtil.cpp
+  GameFaceScan.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  MenuController.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuController.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuController.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuController.cpp)
+  MenuGlob.cpp
+  Menu_FaceMapping.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuGlob.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuGlob.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\MenuGlob.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceMapping.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceMapping.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceMapping.cpp)
+  Menu_FaceScanPreview.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceScanPreview.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceScanPreview.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_FaceScanPreview.cpp)
+  Menu_LandmarkEdit.cpp
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(431): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_LandmarkEdit.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_LandmarkEdit.cpp)
+d:\facemapping\facemapping2-master\facemapping2-master\cput\include\CPUTMath.h(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 ..\..\Menu\Menu_LandmarkEdit.cpp)
+  Menu_Scan.cpp
+  CFaceModel.cpp
+  OBJExporter.cpp
+  ObjLoader.cpp
+  SampleStart.cpp
+  SampleUtil.cpp
+  windowsMain.cpp
+LINK : fatal error LNK1181: 无法打开输入文件“dxgi.liblibpxc.lib”

@@ -1,0 +1,22 @@
+﻿  DirectXTexUtil.cpp
+  BC.cpp
+  BC4BC5.cpp
+  BC6HBC7.cpp
+  BCDirectCompute.cpp
+  DirectXTexCompress.cpp
+  DirectXTexCompressGPU.cpp
+  DirectXTexConvert.cpp
+DirectXTexConvert.cpp(739): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DirectXTexD3D11.cpp
+  DirectXTexDDS.cpp
+  DirectXTexFlipRotate.cpp
+  DirectXTexImage.cpp
+  DirectXTexMipMaps.cpp
+  DirectXTexMisc.cpp
+  DirectXTexNormalMaps.cpp
+  DirectXTexPMAlpha.cpp
+  DirectXTexResize.cpp
+  DirectXTexTGA.cpp
+  DirectXTexWIC.cpp
+  正在生成代码...
+  DirectXTex_Desktop_2013.vcxproj -> D:\facemapping\FaceMapping2-master\FaceMapping2-master\CPUT\middleware\DirectXTex\DirectXTex\Bin\Desktop_2013\Win32\Release\DirectXTex.lib
